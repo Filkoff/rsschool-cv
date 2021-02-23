@@ -2,10 +2,8 @@
 
 ## Contacts
 
-Phone: **+375 29 553-35-84**
-Email: **filkovalevich@gmail.com**
-Phone: **+375 29 553-35-84**  
 Email: **filkovalevich@gmail.com**  
+Phone: **+375 29 553-35-84**  
 Telegram: **@filko252**  
 Minsk, Belarus
 
@@ -41,9 +39,9 @@ function mygcd(x, y) {
 
 ## Education
 
-2010 - 2015 **Bachelor Degree of geology at Belarusian State University**
+2010 - 2015 - **Bachelor Degree of geology at Belarusian State University**
 
-November 2020 - January 2021 - **Online-course** _The Complete 2021 Web Development Bootcamp_ (<https://www.udemy.com/course/the-complete-web-development-bootcamp/>)
+November 2020 - January 2021 - **Online-course** *The Complete 2021 Web Development Bootcamp* (<https://www.udemy.com/course/the-complete-web-development-bootcamp/>)
 
 ## Languages
 
